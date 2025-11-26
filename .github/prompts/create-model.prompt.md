@@ -1,9 +1,3 @@
----
-mode: "agent"
-model: Claude Sonnet 4
-description: "Generate a new model file following existing codebase patterns"
----
-
 # Create New Model File
 
 Create a new model file in `api/fastify-models/` based on requirements, following the existing codebase patterns.
